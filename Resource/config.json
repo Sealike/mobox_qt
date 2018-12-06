@@ -1,0 +1,24 @@
+{
+    "bdid":"0139311",
+    "devid":"8765432112345678",
+    "status":{
+        "b2indentity":"",
+        "inforpt":"",
+        "isfingprint":"",
+        "istask":"",
+        "taskstatus":""
+    },
+    "task":{
+        "executeor":[
+
+        ],
+        "from1":"",
+        "id":"",
+        "name":"",
+        "reportfreq":"",
+        "state":"",
+        "timeend":"",
+        "timestart":"",
+        "to1":""
+    }
+}
